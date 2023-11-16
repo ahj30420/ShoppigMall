@@ -25,3 +25,5 @@
     - 장바구니
     - 댓글
     - 회원 탈퇴
+ 
+![1](https://github.com/ahj30420/ShoppigMall/assets/79964990/ef371606-32ee-4615-8d21-1c4647939e68)
